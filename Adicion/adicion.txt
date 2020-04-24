@@ -1,0 +1,6 @@
+ingrese el primer valor para la suma
+20
+ingrese el segundo valor para la suma
+7
+El resultado de la suma es
+27
