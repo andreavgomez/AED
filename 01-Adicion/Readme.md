@@ -15,11 +15,11 @@
 
 ## **Enunciado:** 
 - **Análisis del problema:**
+     Obtener del usuario dos números y mostrarle la suma
 
-Obtener del usuario dos números y mostrarle la suma
-
-- **Hipótesis:** Se pedira que ingresen dos numero por consola y resolviendo el calculo de la adicion se mostrara el resultado en la pantalla
+- **Hipótesis:** 
+     Se pedira que ingresen dos numero por consola y resolviendo el calculo de la adicion se mostrara el resultado en la pantalla
 
 - **Diseño de la Solución:** 
 
-! [] (docs/DF_Adicion.png)
+! [] (https://github.com/andreavgomez/AED/blob/master/docs/DF_Adicion.png)
