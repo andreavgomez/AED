@@ -16,12 +16,12 @@
 
 • **Problema:** 
 
-  • Demostrar con, un programa simple, que se está en capacidad de editar,
+  - Demostrar con, un programa simple, que se está en capacidad de editar,
     compilar, y ejecutar un programa C++.
     
-  • Contar con las herramientas necesarias para abordar la resolución de los
+  - Contar con las herramientas necesarias para abordar la resolución de los
     trabajos posteriores.
     
 • **Hipótesis:** 
 
-    Se mostrara un mensaje por pantalla
+  - Se mostrara un mensaje por pantalla
