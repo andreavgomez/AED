@@ -5,7 +5,7 @@
 
 • **Año:** 2020
 
-• **Legajo:** 96.259-6 (curso de oyente)
+• **Legajo:** 96.259-6
 
 • **Apellido:** Gomez
 
@@ -15,11 +15,13 @@
 
 ## **Enunciado:** 
 - **Análisis del problema:**
-     Obtener del usuario dos números y mostrarle la suma
+    
+    Obtener del usuario dos números y mostrarle la suma
 
 - **Hipótesis:** 
-     Se pedira que ingresen dos numero por consola y resolviendo el calculo de la adicion se mostrara el resultado en la pantalla
+    
+    Se pedira que ingresen dos numero por consola y resolviendo el calculo de la adicion se mostrara el resultado en la pantalla
 
 - **Diseño de la Solución:** 
 
-! [] (https://github.com/andreavgomez/AED/blob/master/docs/DF_Adicion.png)
+    !(https://github.com/andreavgomez/AED/blob/master/docs/DF_Adicion.png)
