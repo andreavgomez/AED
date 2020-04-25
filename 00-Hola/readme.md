@@ -18,5 +18,6 @@
     compilar, y ejecutar un programa C++.
   • Contar con las herramientas necesarias para abordar la resolución de los
     trabajos posteriores.
+    
 • **Hipótesis:** 
     Se pudo lograr realizar el trabajo cero
