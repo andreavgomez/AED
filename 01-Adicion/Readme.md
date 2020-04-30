@@ -20,7 +20,7 @@ Escribo un programa en C++ que muestre el resultadode la suma de dos numeros ent
 ---
 ### Modelo IPO
 
-  ![IPO](https://github.com/andreavgomez/AED/blob/master/docs/IPO.pdf "IPO")
+  ![IPO](https://github.com/andreavgomez/AED/blob/master/docs/IPO.jpg "IPO")
 
 ---
 ### Algoritmo Textual en C ++
