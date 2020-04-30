@@ -1,27 +1,73 @@
   
-## **Algoritmos y Estructuras de Datos**
+• #**Algoritmos y Estructuras de Datos**
 
-• **Curso:** K1051
+• **Curso (Año):** K1051 (2020)
 
-• **Año:** 2020
+• **Legajo:** 96.259-6 
 
-• **Legajo:** 96.259-6
+• **Apellido y Nombre:** Gomez, Andrea Vanina
 
-• **Apellido:** Gomez
+---
+### 01-Adicion
 
-• **Nombre:** Andrea Vanina
+#### **Obtener del usuario dos números y mostrarle la suma**
+Escribo un programa en C++ que muestre el resultadode la suma de dos numeros enteros.
 
-• **Trabajo:** 01-Adicion
+* Leer el primer entero y guardarlo en la variable  **a**
+* Leer el segundo entero y guardarlo en la variable  **b**
+* Mostrar en pantalla **a + b**
 
-## **Enunciado:** 
-- **Análisis del problema:**
-    
-    Obtener del usuario dos números y mostrarle la suma
+---
+### Modelo IPO
 
-- **Hipótesis:** 
-    
-    Se pedira que ingresen dos numero por consola y resolviendo el calculo de la adicion se mostrara el resultado en la pantalla
+![IPO] ()
 
-- **Diseño de la Solución:** 
+---
+### Algoritmo Textual en C ++
 
-    ![Diagrama de Flujo](https://github.com/andreavgomez/AED/blob/master/docs/DF_Adicion.png "Diagrama de Flujo")
+'''
+/* Adicion
+*Andrea Gomez
+*24/04/2020
+*/
+
+#include <iostream>
+
+int main() {
+    int a,b;
+    std::cout << "ingrese el primer valor para la suma \n";
+    std::cin >> a;
+    std::cout << "ingrese el segundo valor para la suma \n";
+    std::cin >> b;
+    std::cout << "El resultado de la suma es \n";
+    std::cout << a + b;
+}
+'''
+
+---
+### Algoritmo Visual - Diagrama de Flujo
+
+! [] (docs/DF_Adicion.png)
+
+---
+### Ambiente de Desarrollo
+
+Plataforma: Windows 7, MinGW (configuracion en las variables de entorno en Path: "C:\MinGW\bin; "C:\MinGW\msys'1.0\bin), IDE: Visual Studio Code
+
+ 1) **Compilacion C ++**
+
+En Terminal CMD:
+
+/*
+c:\AED\Adicion>make adicion
+g++   -std=c++17  adicion.cpp  -o adicion
+*/
+
+1) **Compilacion C ++**
+
+En Terminal CMD:
+
+/*
+c:\AED\Adicion>adicion.exe
+*/
+
