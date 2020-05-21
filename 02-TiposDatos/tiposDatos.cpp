@@ -1,4 +1,4 @@
-/* Adicion
+/* Tipos de Datos
 Andrea Gomez
 17/05/2020
 */
