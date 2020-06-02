@@ -7,26 +7,56 @@
 • **Apellido y Nombre:** Gomez, Andrea Vanina
 
 ---
-### 02-Tipos de Datos
+### 03-Funciones y Operador Condicional
 
-#### **Escribir un programa que de ejempos sobre el uso de los tipos de datos basicos de C++**
+#### **Demostrar manejo de funciones y del operador condicional en C++**
 
-Tipos de datos basicos en C++ :
-int - bool - unsigned - char - double - string 
 
 Hipotesis de trabajo:
-La problematica que hay que resolver, es hallar la forma correcta para mostrar los tipos de datos y sus posibles operaciones.
-Los tipos de datos son conjuntos de valores sobre los cuales se pueden realizar operaciones sobre esos valores ej.(+,-,*,/). Las operaciones cerradas generan restricciones sobre los valores y operaciones que pueden realizarse sobre cada conjunto.
+Desarrollar las siguientes funciones
+1. Valor absoluto.
+2. Valor mínimo entre dos valores.
+3. Función , definida por
 
 Restricciones:
-No solicitar valores usando cin, usar valores literales (constantes)
-
-Creditos extra:
-Utilizar la funcion assert
-
-¿Son esos realmente todos los tipos que vimos en clase? No, todo puede ser modelado como un tipo de dato. 
+• Las pruebas deben realizarse con assert.
+• Cada función debe aplicar el operador condicional.
 
 Diseño de la solucion:
-Realice ejemplos sobre el uso de los tipos de datos. Para poder realizarlo utilice variables, que es un objeto nombrado en memoria principal, a las variables les asigne valores pertenecientes a un conjunto y realice con ellas una operacion.
 
+Realice tres funciones
+
+• Funcion Valor absoluto:
+ - Lexico: Z -> Z / abs(x)=|X|
+ - Pruebas: {-x  x < 0 
+            { x  e.o.c
+            Ej:
+            abs(3)=3
+            abs(-3)=3
+            abd(0)=0
+ - Prototipo: int abs(int);
+ - Definicion: int Abs(int x)            
+
+• Funcion valor minimo:
+ - Lexico: Z x Z -> Z 
+ - Pruebas: {x  x < y 
+            {y  x > y
+            Ej:
+            7 <= 10  --> 7
+            abd(0)=0
+ - Prototipo: int ValorMinimo(int,int);
+ - Definicion: int ValorMinimo(int x, int y)   
+
+ • Funcion F3:
+ - Lexico: R -> R 
+ - Pruebas: {-x  (-3.0 <= x) and (3.0 >= x)
+            { x  e.o.c
+            Ej:
+             3.0 == Beta(-3.0) 
+             0.0 == Beta(0.0) 
+             -3.0 == Beta(3.0) 
+             4.0 == Beta(4.0)
+             -4.0 == Beta(-4.0)
+ - Prototipo: double Beta(double);
+ - Definicion: double Beta(double x)                   
 ---
