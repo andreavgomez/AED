@@ -10,7 +10,7 @@
 ---
 ### 03-Bisiesto
 
-#### **Etapa #1: Análisis Problema**
+### **Etapa #1: Análisis Problema**
 #### Transcripción del problema:
 Dado un año, determinar si es bisiesto. 
 
@@ -47,11 +47,6 @@ IsBisiesto N -> B : m ^ (p ^ (-q v r))
 ---
 ### Arbol de expresion:
 
-<<<<<<< HEAD
   ![Arbol de expresion](https://github.com/andreavgomez/AED/blob/master/docs/Arbol_de_expresion.jpg "Arbol de expresion")
 
-=======
-  ![Arbol de expresion](https://github.com/andreavgomez/AED/blob/master/docs/Arbol de expresion.pdf "Arbol de expresion")
-  
->>>>>>> 0bb091f8aa69ab8b082a299e7f57b399e555022d
 ---
