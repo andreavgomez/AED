@@ -11,10 +11,10 @@
 ### 03-Bisiesto
 
 ### **Etapa #1: Análisis Problema**
-#### Transcripción del problema:
+### Transcripción del problema:
 Dado un año, determinar si es bisiesto. 
 
-#### Refinamiento del problema e hipótesis de trabajo: 
+### Refinamiento del problema e hipótesis de trabajo: 
 Un año es bisiesto si cumple los siguientes criterios:
 
 Es bisiesto si es divisible entre 4.
