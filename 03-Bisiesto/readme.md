@@ -22,7 +22,8 @@ Pero no es bisiesto si es divisible entre 100.
 Pero sí es bisiesto si es divisible entre 400. (2000 y 2400 sí son bisiestos son divisibles entre 100 pero también entre 400. 1900, 2100, 2200 y 2300 no lo son porque solo son divisibles entre 100).
 1582 Año desde el cual se empieza a evaluar si un año es bisiesto
 
-![IPO](https://github.com/andreavgomez/AED/blob/master/docs/ipo_bisiesto.jpg "modelo IPO")
+![IPO](https://github.com/andreavgomez/AED/blob/master/03-Bisiesto/ipo_bisiesto.jpg "modelo IPO")
+
 
 ---
 ### **Etapa #2: Diseño de la Solución**
@@ -47,6 +48,6 @@ IsBisiesto N -> B : m ^ (p ^ (-q v r))
 ---
 ### Arbol de expresion:
 
-  ![Arbol de expresion](https://github.com/andreavgomez/AED/blob/master/docs/Arbol_de_expresion.jpg "Arbol de expresion")
+  ![Arbol de expresion](https://github.com/andreavgomez/AED/blob/master/03-Bisiesto/Arbol_de_expresion.jpg "Arbol de expresion")
 
 ---
