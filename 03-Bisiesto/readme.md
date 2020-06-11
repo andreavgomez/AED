@@ -12,7 +12,7 @@
 
 #### **Etapa #1: Análisis Problema**
 #### Transcripción del problema:
-Dado un año, determinar si es bisiesto.
+Dado un año, determinar si es bisiesto. 
 
 #### Refinamiento del problema e hipótesis de trabajo: 
 Un año es bisiesto si cumple los siguientes criterios:
